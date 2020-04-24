@@ -1,0 +1,13 @@
+{
+    "require": {
+        "slim/slim": "^3.5",
+        "illuminate/database": "^5.2",
+        "monolog/monolog": "^1.21",
+        "slim/php-view": "^2.1",
+        "oscarotero/psr7-middlewares": "^3.17",
+        "slim/csrf": "^0.7.0",
+        "cboden/ratchet": "0.3.*",
+        "react/zmq": "0.2.*|0.3.*",
+        "phpmailer/phpmailer": "^5.2"
+    }
+}

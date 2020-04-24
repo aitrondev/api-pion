@@ -1,0 +1,14 @@
+[04-Sep-2018 05:36:56 UTC] PHP Fatal error:  Class 'Controller\AppController' not found in /home/ordersol/botolbagus.com/app/classes/Controller/ChatController.php on line 22
+[04-Sep-2018 05:38:23 UTC] PHP Fatal error:  Class 'Controller\AppController' not found in /home/ordersol/botolbagus.com/app/classes/Controller/UserController.php on line 36
+[30-Oct-2018 09:13:11 UTC] PHP Fatal error:  Class 'Controller\AppController' not found in /home/ordersol/botolbagus.com/app/classes/Controller/CaptionController.php on line 14
+[30-Oct-2018 09:13:18 UTC] PHP Fatal error:  Class 'Controller\AppController' not found in /home/ordersol/botolbagus.com/app/classes/Controller/ChatController.php on line 22
+[30-Oct-2018 09:17:13 UTC] PHP Fatal error:  Class 'Controller\AppController' not found in /home/ordersol/botolbagus.com/app/classes/Controller/UserController.php on line 36
+[08-Nov-2018 23:06:06 UTC] PHP Fatal error:  Class 'Controller\AppController' not found in /home/ordersol/botolbagus.com/app/classes/Controller/CaptionController.php on line 14
+[08-Nov-2018 23:06:08 UTC] PHP Fatal error:  Class 'Controller\AppController' not found in /home/ordersol/botolbagus.com/app/classes/Controller/ChatController.php on line 22
+[08-Nov-2018 23:07:14 UTC] PHP Fatal error:  Class 'Controller\AppController' not found in /home/ordersol/botolbagus.com/app/classes/Controller/UserController.php on line 36
+[05-Dec-2018 15:31:23 UTC] PHP Fatal error:  Class 'Controller\AppController' not found in /home/ordersol/botolbagus.com/app/classes/Controller/CaptionController.php on line 14
+[05-Dec-2018 15:31:29 UTC] PHP Fatal error:  Class 'Controller\AppController' not found in /home/ordersol/botolbagus.com/app/classes/Controller/ChatController.php on line 22
+[05-Dec-2018 15:33:08 UTC] PHP Fatal error:  Class 'Controller\AppController' not found in /home/ordersol/botolbagus.com/app/classes/Controller/UserController.php on line 36
+[05-Dec-2018 23:56:48 UTC] PHP Fatal error:  Class 'Controller\AppController' not found in /home/ordersol/botolbagus.com/app/classes/Controller/CaptionController.php on line 14
+[05-Dec-2018 23:57:18 UTC] PHP Fatal error:  Class 'Controller\AppController' not found in /home/ordersol/botolbagus.com/app/classes/Controller/ChatController.php on line 22
+[05-Dec-2018 23:58:43 UTC] PHP Fatal error:  Class 'Controller\AppController' not found in /home/ordersol/botolbagus.com/app/classes/Controller/UserController.php on line 36
